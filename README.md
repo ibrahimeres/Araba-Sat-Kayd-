@@ -1,4 +1,4 @@
-### Hi there 👋
+###Görsel programlamaya giriş dersim için yaptığım proje araç satış kaydını listeleyen bir proje.Projemin amacı araç satışı yapılırken yapılan satışların marka, alıcı isim soyisim ve fiyat olarak sınıflandırılıma yapmasıdır.Örnek olarak eklediğim araç markaları vardır ancak istediğimiz gibi araç marka adlarını çoğaltıp azaltabiliriz.İade durumlarında kolaylıkla silme ekleme işlemlerini de yapabileceğimiz bir proje.Projemş WPF tabanlı bir proje olarak oluşturdum.  
 
 <!--
 **ibrahimeres/ibrahimeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
