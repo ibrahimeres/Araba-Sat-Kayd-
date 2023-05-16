@@ -10,7 +10,7 @@ Bu uygulama, araç satış işlemlerini takip etmek için kullanılan bir WPF (W
 - Araç satışı gerçekleştirebilme
 - Satış yapılan araçları listeleme
 - Alıcı adı soyadı ve fiyat listeleyebilme
-- 
+
 
 ## Gereksinimler
 
@@ -21,7 +21,8 @@ Bu uygulama, araç satış işlemlerini takip etmek için kullanılan bir WPF (W
 ## Kurulum
 
 1. Bu projeyi bilgisayarınıza indirin veya klonlayın.
- 2. Visual Studio veya tercih ettiğiniz bir geliştirme ortamını açın.
+ 
+2. Visual Studio veya tercih ettiğiniz bir geliştirme ortamını açın.
 
 3. Projeyi geliştirme ortamınıza aktarın ve çözümü açın.
 
