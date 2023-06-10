@@ -1,6 +1,6 @@
 # Araç Satış Kaydı WPF Uygulaması
 
-Bu uygulama, araç satış işlemlerini takip etmek için kullanılan bir WPF (Windows Presentation Foundation) uygulamasıdır.
+Bu uygulama, araç satış işlemlerini takip etmek için kullanılan bir WPF (Windows Presentation Foundation) uygulamasıdır.Uygulamamız araç satışlarının isim soyisim,marka ve fiyat olarak listelendeği,kaydedildiği isteğe bağlı olarak güncelleme yapılabilen araç satım işlemlerini tablo halinde saklayıp kolaylaştıran c# tabanı ile yazılan bir uygulamadır.
 
 ## Özellikler
 
