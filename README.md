@@ -18,16 +18,6 @@ Bu uygulama, araç satış işlemlerini takip etmek için kullanılan bir WPF (W
 + .NET Framework 4.5 veya üzeri
 + Visual Studio 2017 veya üzeri (uygulamayı geliştirmek için)
 
-## Kurulum
-
-+ Bu projeyi bilgisayarınıza indirin veya klonlayın.
- 
-+ Visual Studio veya tercih ettiğiniz bir geliştirme ortamını açın.
-
-+ Projeyi geliştirme ortamınıza aktarın ve çözümü açın.
-
-+ Projeyi derleyin ve çalıştırın.
-
 ## Kullanım
 
 + Uygulama başladığında, ana ekran görüntülenecektir.
