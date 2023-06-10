@@ -38,8 +38,8 @@ Bu uygulama, araç satış işlemlerini takip etmek için kullanılan bir WPF (W
 
 + Bir aracın bilgilerini düzenlemek için listeden seçin ve hangi model ile değiştirmek istiyorsanız o modele tıklayın ardından "Güncelle" düğmesini tıklayın.
 
-5. Bir aracın satışını silmek için listeden seçin ve "Sil" düğmesini tıklayın.
++ Bir aracın satışını silmek için listeden seçin ve "Sil" düğmesini tıklayın.
 
-6.Kayıt oluşturulurken tüm alanların doldurulması zorunludur.
++ Kayıt oluşturulurken tüm alanların doldurulması zorunludur.
 
-7.Uygulamadan çıkmak için "Çıkış" butonuna tıklayabilirsiniz
++ Uygulamadan çıkmak için "Çıkış" butonuna tıklayabilirsiniz
